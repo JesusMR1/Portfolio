@@ -1,0 +1,4 @@
+I want to change the "Games Section" I want now that is a Slider where I can put all the projects, the things I worked on during the project, what engine I worked and if its 2d, 3d or vr
+Necesito que las imagenes de mis proyectos esten proporcionales,
+Keep the same format as before, just make it wider
+I need that every "View Project" sends you to a youtube video 
